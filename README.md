@@ -2,6 +2,8 @@
 
 I'm a Data Scientist working in Paris, France.
 
+You can find my personal website 👉 [here](https://thomas.legrand.sh) 
+
 <p>
   <a href=""><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
