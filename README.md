@@ -15,7 +15,7 @@ You can find my personal website 👉 [here](https://thomas.legrand.sh)
 
 ## Bio
 
-🚗 Working for Ornikar/Onroad empowering people through transport and making roads safer
+🚗 Working for Freelance Republik
 
 🧰 I mostly work with .sql, .py, .js and .ts 
 
