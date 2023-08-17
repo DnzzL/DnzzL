@@ -1,6 +1,6 @@
 **Hi there 👋**
 
-I'm a Data Scientist working in Paris, France.
+I'm a web developer (ex Data Scientist) working with Vue, GraphQL and Typescript working in Nice, France.
 
 You can find my personal website 👉 [here](https://thomas.legrand.sh) 
 
